@@ -1,2 +1,2 @@
 # Java-tutorials-and-practice
-Practice repository for java.
+Progress and Practice repository for Learning Java.
